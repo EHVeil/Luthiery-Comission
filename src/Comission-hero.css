@@ -1,0 +1,19 @@
+.hero {
+  width: 100%;
+  filter: brightness(50%);
+}
+
+.Luthier {
+  height: 1000px;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.lowerleft {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+  font-size: 6rem;
+}
