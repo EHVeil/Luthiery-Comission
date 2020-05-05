@@ -1,0 +1,27 @@
+.collectionstyle {
+  width: 450px;
+}
+
+.col3 {
+  height: 100%;
+}
+
+.space{
+  margin: 100px;
+  color: #c76a3d;
+  padding-bottom: 10px;
+  background-image: url(../images/backgrounds/Bluegray-gallery.jpg);
+  background-position: center;
+  background-size: cover;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #c76a3d;
+}
+
+.gallerycont {
+  color: white;
+}
+
+.margins {
+  margin: 1em;
+}

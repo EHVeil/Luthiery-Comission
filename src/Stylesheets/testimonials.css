@@ -1,0 +1,13 @@
+.Testimonials {
+  height: 70%;
+  padding: 20% 10% !important;
+  margin: 30px;
+  background-image: url(../images/backgrounds/graysqrback.jpg);
+  background-size: cover;
+  background-position: center;
+  filter: brightness(50%);
+  border-style: solid;
+  border-color: #c76a3d;
+  border-width: .2em;
+  border-radius: 5px;
+}

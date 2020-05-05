@@ -1,0 +1,20 @@
+.nav-link {
+  display: inline-block !important;
+  color: #c76a3d;
+  font-family: Impact, Charcoal, sans-serif;
+}
+
+.title{
+  background-image: url(../images/backgrounds/Bluegray-gallery.jpg);
+  background-position: center;
+  background-size: cover;
+  color: #c76a3d;
+  font-family: Impact, Charcoal, sans-serif;
+  border-style: none none solid none;
+  border-width: .2em;
+  border-color: #c76a3d;
+}
+
+.elephant {
+  width: 20%;
+}

@@ -1,0 +1,27 @@
+
+.hero-img {
+  width: inherit;
+  height: 1300px;
+}
+
+.jumbotron-carousel {
+  height: 1000px;
+  position: relative;
+  text-align: center;
+  color: white;
+  overflow: hidden;
+}
+
+.midleft {
+  position: absolute;
+  top: 60%;
+  font-size: 6rem;
+}
+
+.fontborder {
+   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.indfont {
+  font-family: monospace;
+}
