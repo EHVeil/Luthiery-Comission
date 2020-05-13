@@ -1,0 +1,21 @@
+.comissionform {
+  margin: 100px;
+  padding: 100px !important;
+  color: #c76a3d;
+  padding-bottom: 10px;
+  background-image: url(../images/backgrounds/Bluegray-gallery.jpg);
+  background-position: center;
+  background-size: cover;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #c76a3d;
+}
+
+.formelement {
+  padding-bottom: 50px;
+}
+
+textarea {
+  width: 40em;
+  height: 15em;
+}
